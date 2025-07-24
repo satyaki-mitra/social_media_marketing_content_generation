@@ -182,16 +182,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- AI-ML-2024 Internship Program Team
 - Open-source AI Model Providers:
   - FALCON3 by Technology Innovation Institute(TII) (Abu Dhabi)
   - Kandinsky by Accubits
 
 ---
-
-<div align="center">
-
-**Made with ❤️ by the AI-ML-2024 Intern Team**
 
 [↑ Back to Top](#)
 
